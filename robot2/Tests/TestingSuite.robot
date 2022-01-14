@@ -15,7 +15,7 @@ FIRSTTESTCASE
     [Tags]    smoke
     Log    hello 
     
-SecondTestCase
+SecondTestCases
     Log    2nd test passed    
     
 ThirdTestCase
